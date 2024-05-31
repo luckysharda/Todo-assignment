@@ -17,14 +17,6 @@ This is a simple and intuitive Todo application built with React and Tailwind CS
 **React DnD:** For implementing drag-and-drop functionality.
 **React Hot Toast:** For showing toast notifications.
 
-## Tech Stack
-
-**Client:** React JS
-
-**Server:** Node JS, Express JS
-
-**Database:** Mongo DB
-
 ## Demo
 
 Installation
@@ -41,7 +33,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd todo-app
+  cd todo-app-com
 ```
 
 Install dependencies
