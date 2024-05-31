@@ -41,7 +41,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd todo-app
+  cd todo-app-com
 ```
 
 Install dependencies
