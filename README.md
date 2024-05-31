@@ -18,7 +18,7 @@ This is a simple and intuitive Todo application built with React and Tailwind CS
 **React Hot Toast:** For showing toast notifications.
 
 ## Demo
-(https://todo-assignment-mauve.vercel.app/)
+(https://todo-assignment-mauve.vercel.app/)  run in full scree by press f11
 
 Installation
 To run this project locally, follow these steps:
